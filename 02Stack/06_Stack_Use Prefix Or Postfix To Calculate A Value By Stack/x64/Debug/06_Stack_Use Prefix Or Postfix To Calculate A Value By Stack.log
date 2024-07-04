@@ -1,0 +1,6 @@
+﻿  Stack_Use Prefix Or Postfix To Calculate A Value By Stack.cpp
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\06_Stack_Use Prefix Or Postfix To Calculate A Value By Stack\Stack_Use Prefix Or Postfix To Calculate A Value By Stack.cpp(15,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\06_Stack_Use Prefix Or Postfix To Calculate A Value By Stack\Stack_Use Prefix Or Postfix To Calculate A Value By Stack.cpp(18,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\06_Stack_Use Prefix Or Postfix To Calculate A Value By Stack\Stack_Use Prefix Or Postfix To Calculate A Value By Stack.cpp(80): warning C4715: “CalculateTempResult_Postfix”: 不是所有的控件路径都返回值
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\06_Stack_Use Prefix Or Postfix To Calculate A Value By Stack\Stack_Use Prefix Or Postfix To Calculate A Value By Stack.cpp(95): warning C4715: “CalculateTempResult_Prefix”: 不是所有的控件路径都返回值
+  06_Stack_Use Prefix Or Postfix To Calculate A Value By Stack.vcxproj -> D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\x64\Debug\06_Stack_Use Prefix Or Postfix To Calculate A Value By Stack.exe

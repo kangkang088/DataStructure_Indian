@@ -1,0 +1,5 @@
+﻿  Stack_Translate Infix To Postfix By Stack.cpp
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\07_Stack_Translate Infix To Postfix By Stack\Stack_Translate Infix To Postfix By Stack.cpp(18,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\07_Stack_Translate Infix To Postfix By Stack\Stack_Translate Infix To Postfix By Stack.cpp(21,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\07_Stack_Translate Infix To Postfix By Stack\Stack_Translate Infix To Postfix By Stack.cpp(119): warning C4715: “InStackIsHigher”: 不是所有的控件路径都返回值
+  07_Stack_Translate Infix To Postfix By Stack.vcxproj -> D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\x64\Debug\07_Stack_Translate Infix To Postfix By Stack.exe

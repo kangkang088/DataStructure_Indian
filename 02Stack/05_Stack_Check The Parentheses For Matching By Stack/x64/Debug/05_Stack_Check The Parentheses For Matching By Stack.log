@@ -1,0 +1,4 @@
+﻿  Stack_Check The Parentheses For Matching By Stack.cpp
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\05_Stack_Check The Parentheses For Matching By Stack\Stack_Check The Parentheses For Matching By Stack.cpp(13,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\05_Stack_Check The Parentheses For Matching By Stack\Stack_Check The Parentheses For Matching By Stack.cpp(49): warning C4715: “CheckSingleChar”: 不是所有的控件路径都返回值
+  05_Stack_Check The Parentheses For Matching By Stack.vcxproj -> D:\code\ownlearn\Unity\DataStructure_Indian\02Stack\x64\Debug\05_Stack_Check The Parentheses For Matching By Stack.exe
